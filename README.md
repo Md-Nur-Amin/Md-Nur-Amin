@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Nur Amin Shah Rabbi</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nur-amin&label=Profile%20views&color=0e75b6&style=flat" alt="md-nur-amin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nur-amin" alt="md-nur-amin" /></a> </p>
 
