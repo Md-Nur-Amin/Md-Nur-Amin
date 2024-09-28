@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nur-amin" alt="md-nur-amin" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, JavaScript , Python**
+- 🌱 I’m currently learning ** JavaScript , Python**
 
 - 📫 How to reach me **rabbiii049@gmail.com**
 
