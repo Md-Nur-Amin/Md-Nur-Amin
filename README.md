@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Md. Nur Amin Shah Rabbi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=QA+Engineer+in+Training;Automation+%7C+Manual+Testing+Enthusiast;Lover+of+Clean+Code+%26+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=QA+Engineer+in+Training;Focused+on+Automation+%26+Manual+Testing;Skilled+in+Selenium%2C+Cypress%2C+Playwright;Passionate+about+Testing+Tools+%26+Processes" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently learning **Software Quality Assurance (SQA)**
-- 🧪 Exploring tools like **Playwright**, **Cypress**, **Selenium**, **Postman**, and more
+- 🎯 Learning **SQA (Software Quality Assurance)**
+- 🧪 Working with **Playwright**, **Selenium**, **Cypress**, **Postman**, **JMeter**, **k6**, **Jest**, etc.
 - 📬 Reach me at **rabbiii049@gmail.com**
 
 ---
 
-### 🧰 QA & Testing Tools
+### 🧪 QA & Testing Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-%23000000.svg?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -28,23 +28,31 @@
 
 ---
 
-### 🧑‍💼 Project & Test Management
+### 🗂️ Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
+<a href="https://github.com/md-nur-amin/playwright-testing">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=playwright-testing&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/md-nur-amin/api-testing-postman">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=api-testing-postman&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/md-nur-amin/selenium-framework">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=selenium-framework&theme=tokyonight" />
+</a>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nur-amin&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nur-amin&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-</p>
+<a href="https://github.com/md-nur-amin">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=md-nur-amin&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/md-nur-amin">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nur-amin&layout=compact&hide_border=true&theme=tokyonight" />
+</a>
 
 ---
 
