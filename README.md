@@ -31,16 +31,16 @@
 ### 🗂️ Featured Projects
 
 <a href="https://github.com/Md-Nur-Amin/JobPortal-Server">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=playwright-testing&theme=tokyonight" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Nur-Amin&repo=JobPortal-Server&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Md-Nur-Amin/Job-Portal-frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=api-testing-postman&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Nur-Amin&repo=Job-Portal-frontend&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Md-Nur-Amin/Surah_Player">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=selenium-framework&theme=tokyonight" />
-</a> 
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Nur-Amin&repo=Surah_Player&theme=tokyonight" />
+</a>
 
 ---
 
@@ -55,9 +55,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nur-amin&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
 -->
-
-
-### 📫 Let's Connect
 
 ### 📫 Let's Connect
 
