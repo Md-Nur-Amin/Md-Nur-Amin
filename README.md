@@ -30,20 +30,21 @@
 
 ### 🗂️ Featured Projects
 
-<a href="https://github.com/md-nur-amin/playwright-testing">
+<a href="https://github.com/Md-Nur-Amin/JobPortal-Server">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=playwright-testing&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/md-nur-amin/api-testing-postman">
+<a href="https://github.com/Md-Nur-Amin/Job-Portal-frontend">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=api-testing-postman&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/md-nur-amin/selenium-framework">
+<a href="https://github.com/Md-Nur-Amin/Surah_Player">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-nur-amin&repo=selenium-framework&theme=tokyonight" />
-</a>
+</a> 
 
 ---
 
+<!-- 
 ### 📊 GitHub Stats
 
 <a href="https://github.com/md-nur-amin">
@@ -53,13 +54,20 @@
 <a href="https://github.com/md-nur-amin">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nur-amin&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
+-->
 
----
+
+### 📫 Let's Connect
 
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:rabbiii049@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rabbiii049@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/md-nur-amin-rabbi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mdnuraminrabbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
+
