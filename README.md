@@ -27,7 +27,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 🗂️ Featured Projects
 
 <a href="https://github.com/Md-Nur-Amin/JobPortal-Server">
@@ -41,7 +41,7 @@
 <a href="https://github.com/Md-Nur-Amin/Surah_Player">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Nur-Amin&repo=Surah_Player&theme=tokyonight" />
 </a>
-
+-->
 ---
 
 <!-- 
