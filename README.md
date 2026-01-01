@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=QA+Engineer;Focused+on+Automation+%26+Manual+Testing;Skilled+in+Playwright%2C+Selenium%2C+Cypress;Passionate+about+Testing+Tools+%26+Processes" alt="Typing SVG" />
 </p>
----
 
 ### 👨‍💻 About Me
 
