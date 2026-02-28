@@ -58,11 +58,9 @@
 
 <p align="center">
   <a href="mailto:rabbiii049@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rabbiii049@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/md-nur-amin-rabbi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-mdnuraminrabbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
